@@ -1,4 +1,3 @@
-# 2021_dem_sinergia_-sample-
 
 # Underwater Surface Profiling & Anomaly Detection System
 
